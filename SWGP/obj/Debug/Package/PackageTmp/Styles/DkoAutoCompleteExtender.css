@@ -1,0 +1,22 @@
+.DkoAutoCompleteExtenderList
+{
+	text-align: left;
+	visibility: hidden;
+	cursor: default;
+	list-style: none;
+	padding: 0px;	
+	margin: 0px;
+	border:outset gray 1px;
+}
+
+.DkoAutoCompleteExtenderListHighlightedItem
+{
+	background-color:gray;	
+	color:white;
+}
+
+
+.DkoAutoCompleteExtenderListItem
+{
+	background-color: #F1F1F1;	
+}

@@ -1,0 +1,13 @@
+.DkoMessageBoxButtonPanel
+{
+	text-align:center;
+}
+
+.DkoMessageBoxButton
+{
+	width:120px;
+	height:21px;
+	background-image : url(../images/DkoMessageBox/buttonBackground.png);	
+	background-repeat: repeat-x;
+	margin-right:5px;
+}

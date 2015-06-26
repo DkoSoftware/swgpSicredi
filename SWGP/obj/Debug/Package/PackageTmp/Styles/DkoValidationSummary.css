@@ -1,0 +1,130 @@
+/* 
+ * ValidationSummaryStyle.MessageBox
+ */
+.DkoValidationSummaryMessageBoxStyle
+{
+	
+}
+
+.DkoValidationSummaryMessageBoxStyleBackground
+{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	background-color:black 	;
+	filter:alpha(opacity=70);
+	opacity:0.7;	
+}
+
+.DkoValidationSummaryMessageBoxStyleLink
+{
+	text-decoration:none;
+	color:black;
+	cursor:pointer;
+}
+
+.DkoValidationSummaryMessageBoxStyleLink:hover
+{
+	text-decoration:underline;
+	color:black;	
+	cursor:pointer;
+}
+
+.DkoValidationSummaryMessageBoxStyleLink:visited
+{
+	text-decoration:none;
+	color:black;
+	cursor:pointer;
+	
+}
+
+
+/******************************************************************************
+* ValidationSummaryStyle.StaticDisplay
+*******************************************************************************/
+
+.DkoValidationSummaryStaticDisplayStyle
+{
+	background-color:White;
+	filter:alpha(opacity=90);
+	opacity:0.9;
+	position: fixed; 
+	_position: absolute;
+	bottom:0; 
+	left:10px; 
+	width: 98.5%;
+	_width:100%; 		
+	_margin-right:10px;
+	height: 88px;
+}
+
+/* Esse elemento serve para fazer um espaço fake 
+ * que ficará atrás do elemento acima, então deve ter apenas a mesma
+ * height do elemento acima.
+ */
+.DkoValidationSummaryStaticDisplayStyleSpacing
+{
+	height: 80px;
+}
+
+
+.DkoValidationSummaryMessageBoxStyleBackground
+{
+	
+}
+
+.DkoValidationSummaryStaticDisplayStyleTitleBar
+{
+	cursor:normal;
+	width:100%;		
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bolder;
+	height: 28px;	
+	border-width: 0px 0px 0px 0px;	
+	color : #FFFFFF;
+	background-image : url(../images/DkoHighlight/titleBar.png);	
+	background-repeat: repeat-x;	
+}
+
+.DkoValidationSummaryStaticDisplayStyleCloseButton
+{
+	width:19px;
+	height:19px;
+	border:0px;
+	background-image : url(../images/DkoWindowBase/closeButtonBackground.png);			
+	cursor:pointer;
+}
+
+.DkoValidationSummaryStaticDisplayStyleContentPanel
+{
+	overflow-y:auto;
+	height: 60px;
+	text-decoration:none;
+	color:black;
+}
+
+.DkoValidationSummaryStaticDisplayStyleLink
+{
+	text-decoration:none;
+	color:Red;
+	cursor:pointer;
+}
+
+.DkoValidationSummaryStaticDisplayStyleLink:hover
+{
+	text-decoration:underline;
+	color:Red;	
+	cursor:pointer;
+}
+
+.DkoValidationSummaryStaticDisplayStyleLink:visited
+{
+	text-decoration:none;
+	color:Red;
+	cursor:pointer;
+	
+}

@@ -1,0 +1,278 @@
+﻿/* Button Save
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonSave, input[type=submit].DkoButtonSave  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 10px;
+    background-image: url(../images/Button/img_save.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;
+      
+ }  
+
+input[type=button].DkoButtonSave:hover, input[type=submit].DkoButtonSave:hover  
+{  
+    background-color:#C5C5C5;
+    color:#FFFFFF;
+    border-bottom-color:White;
+    border-right-color:White;
+}  
+
+
+/* Button Edit
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonEdit, input[type=submit].DkoButtonEdit  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image: url(../images/Button/img_edit.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;  
+ }  
+
+input[type=button].DkoButtonEdit:hover, input[type=submit].DkoButtonEdit:hover  
+{  
+    background-color:#C5C5C5;
+    color:#FFFFFF;
+    border-bottom-color:White;
+    border-right-color:White;  
+}  
+
+
+/* Button Delete
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonDelete, input[type=submit].DkoButtonDelete  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image: url(../images/Button/img_remove.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;  
+ }  
+
+input[type=button].DkoButtonDelete:hover, input[type=submit].DkoButtonDelete:hover  
+{  
+    background-color:#C5C5C5;
+    color:#FFFFFF;  
+    border-bottom-color:White;
+    border-right-color:White;
+}  
+
+
+/* Button Clean
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonClean, input[type=submit].DkoButtonClean  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image: url(../images/Button/img_save.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;  
+ }  
+
+input[type=button].DkoButtonClean:hover, input[type=submit].DkoButtonClean:hover  
+{  
+    background-color:#C5C5C5;
+    color:#FFFFFF;
+    border-bottom-color:White;
+    border-right-color:White;  
+}  
+
+
+/* Button New
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonNew, input[type=submit].DkoButtonNew  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image:url(../images/Button/img_add.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold
+ }  
+
+input[type=button].DkoButtonNew:hover, input[type=submit].DkoButtonNew:hover  
+{  
+    background-color:#C5C5C5;
+    background-image:url(../images/Button/img_add.png);
+    color:#FFFFFF;  
+    border-bottom-color:White;
+    border-right-color:White;
+}  
+
+
+/* Button Back
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonBack, input[type=submit].DkoButtonBack  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image: url(../images/Button/img_back.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;
+    float:right;   
+ }  
+
+input[type=button].DkoButtonBack:hover, input[type=submit].DkoButtonBack:hover  
+{  
+    background-color:#C5C5C5;
+    color:#FFFFFF;  
+    border-bottom-color:White;
+    border-right-color:White;
+}  
+
+
+/* Button Next
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonNext, input[type=submit].DkoButtonNext  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image: url(../images/img_next.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;  
+ }  
+
+input[type=button].DkoButtonNext:hover, input[type=submit].DkoButtonNext:hover  
+{  
+   background-color:#C5C5C5;
+    color:#FFFFFF;  
+    border-bottom-color:White;
+    border-right-color:White;
+}  
+
+/* Button Search
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonSearch, input[type=submit].DkoButtonSearch  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image: url(../images/Button/img_search.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;  
+ }  
+
+input[type=button].DkoButtonSearch:hover, input[type=submit].DkoButtonSearch:hover  
+{  
+   background-color:#C5C5C5;
+    color:#FFFFFF;  
+    border-bottom-color:White;
+    border-right-color:White;
+}  
+
+/* Button Refresh
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonRefresh, input[type=submit].DkoButtonRefresh  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image: url(../images/Button/img_refresh.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;  
+ }  
+
+input[type=button].DkoButtonRefresh:hover, input[type=submit].DkoButtonRefresh:hover  
+{  
+   background-color:#C5C5C5;
+    color:#FFFFFF;  
+    border-bottom-color:White;
+    border-right-color:White;
+}  
+
+/* Button Cleaner
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonClean, input[type=submit].DkoButtonClean  
+ {  
+    padding: 0 15px 0 42px;  
+    height: 30px;  
+   border: 1px solid #999999;  
+    min-width: 40px;
+    background-image: url(../images/Button/img_clean.png);
+    background-repeat:no-repeat;
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;  
+ }  
+
+input[type=button].DkoButtonClean:hover, input[type=submit].DkoButtonClean:hover  
+{  
+   background-color:#C5C5C5;
+    color:#FFFFFF;  
+    border-bottom-color:White;
+    border-right-color:White;
+}  
+
+/* Button Extender Calendar
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonCalendar, input[type=submit].DkoButtonCalendar  
+ {  
+    height: 24px;  
+    width: 20px;
+    background-image: url(../images/Button/img_Calendar.png);
+    
+ }  
+
+input[type=button].DkoButtonCalendar:hover, input[type=submit].DkoButtonCalendar:hover  
+{  
+   text-decoration: none;
+}
+
+/* Button Report
+-------------------------------------------------------------------------*/
+ input[type=button].DkoButtonReport, input[type=submit].DkoButtonReport  
+ {  
+     padding: 0 15px 0 42px;  
+    height: 30px;  
+    border: 1px solid #999999;  
+    min-width: 40px;
+   
+    background-color:#E8E8E8;
+    color:#000000;
+    font-weight:bold;  
+    background-image: url(../images/Button/img_print.png);
+    background-repeat:no-repeat;
+    
+ }  
+
+input[type=button].DkoButtonReport:hover, input[type=submit].DkoButtonReport:hover  
+{  
+    background-color:#C5C5C5;
+    color:#FFFFFF;  
+    border-bottom-color:White;
+    border-right-color:White;
+}

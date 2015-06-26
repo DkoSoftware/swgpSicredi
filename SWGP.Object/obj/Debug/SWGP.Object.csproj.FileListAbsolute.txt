@@ -1,0 +1,33 @@
+D:\Dko Projects\Projects\Source\SWGP.Object\bin\Debug\SWGP.Object.dll
+D:\Dko Projects\Projects\Source\SWGP.Object\bin\Debug\SWGP.Object.pdb
+D:\Dko Projects\Projects\Source\SWGP.Object\obj\Debug\ResolveAssemblyReference.cache
+D:\Dko Projects\Projects\Source\SWGP.Object\obj\Debug\SWGP.Object.dll
+D:\Dko Projects\Projects\Source\SWGP.Object\obj\Debug\SWGP.Object.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP.Object\bin\Debug\SWGP.Object.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP.Object\bin\Debug\SWGP.Object.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP.Object\obj\Debug\SWGP.Object.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP.Object\obj\Debug\SWGP.Object.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\bin\Debug\SWGP.Object.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\bin\Debug\SWGP.Object.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\obj\Debug\ResolveAssemblyReference.cache
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\obj\Debug\SWGP.Object.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\obj\Debug\SWGP.Object.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP.Object\bin\Debug\SWGP.Object.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP.Object\bin\Debug\SWGP.Object.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP.Object\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP.Object\obj\Debug\SWGP.Object.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP.Object\obj\Debug\SWGP.Object.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\bin\Debug\SWGP.Object.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\bin\Debug\SWGP.Object.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\obj\Debug\ResolveAssemblyReference.cache
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\obj\Debug\SWGP.Object.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP.Object\obj\Debug\SWGP.Object.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP.Object\bin\Debug\SWGP.Object.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP.Object\bin\Debug\SWGP.Object.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP.Object\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP.Object\obj\Debug\SWGP.Object.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP.Object\obj\Debug\SWGP.Object.pdb
+D:\SWGP\Source\SWGP.Object\bin\Debug\SWGP.Object.dll
+D:\SWGP\Source\SWGP.Object\bin\Debug\SWGP.Object.pdb
+D:\SWGP\Source\SWGP.Object\obj\Debug\SWGP.Object.dll
+D:\SWGP\Source\SWGP.Object\obj\Debug\SWGP.Object.pdb

@@ -1,0 +1,16 @@
+﻿.info 
+{
+    background:transparent url(info.png) no-repeat top left;
+}
+.success 
+{
+    background:transparent url(success.png) no-repeat top left;
+}
+.warning 
+{
+    background:transparent url(warning.png) no-repeat top left;
+}
+.error 
+{
+    background:transparent url(error.png) no-repeat top left;
+}

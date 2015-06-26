@@ -1,0 +1,37 @@
+﻿.ActionButton
+{
+	text-decoration:none;
+	cursor:default;
+}
+
+.ActionButtonTable
+{	
+	font-family: verdana;
+	font-size: x-small;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	vertical-align:middle;
+	cursor:pointer;
+	height:18px;
+	width: 68px;
+	
+	background-color:#F1F1F1;
+	border: solid 1px lightgray;
+}
+
+.ActionButtonTableOver
+{	
+	font-family: verdana;
+	font-size: x-small;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	vertical-align:middle;
+	cursor:pointer;
+	height:18px;
+	width: 68px;
+	
+	background-color:#F1F1F1;
+	border: solid 1px gray;
+}

@@ -1,0 +1,8 @@
+.DkoPromptOkButton
+{
+	width:120px;
+	height:21px;
+	background-image : url(../images/DkoPrompt/buttonBackground.png);	
+	background-repeat: repeat-x;
+	margin-right:5px;
+}

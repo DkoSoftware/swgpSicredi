@@ -1,0 +1,54 @@
+﻿ body 
+        {
+            background-image: url(~/images/fundo_sicredi2.png);
+            background-repeat:repeat-x;
+        }
+
+        .img_login
+        {
+            position:absolute;
+            top:33%;
+            left:33%;
+   
+            }
+
+     
+         #FormLogin table
+         { 
+              position:absolute;
+              top:47%;
+              left :40%;
+              width:110px;
+              z-index:1012;
+           
+             }
+     
+        .chb_Manterme
+        {
+            font-size:12px;
+            }
+            
+                   /* Button Entrar
+            -------------------------------------------------------------------------*/
+             input[type=button].DkoButtonSave, input[type=submit].DkoButtonSave  
+             {  
+                padding: 0 15px 0 42px;  
+                height: 30px;  
+               border: 1px solid #999999;  
+                min-width: 10px;
+                background-image: url(../images/Button/img_save.png);
+                background-repeat:no-repeat;
+                background-color:#E8E800;
+                color:Green;
+                font-weight:bold;
+                font-size:11px;
+      
+             }  
+
+            input[type=button].DkoButtonSave:hover, input[type=submit].DkoButtonSave:hover  
+            {  
+                background-color:#C5C5C5;
+                color:#FFFFFF;
+                border-bottom-color:White;
+                border-right-color:White;
+            }  

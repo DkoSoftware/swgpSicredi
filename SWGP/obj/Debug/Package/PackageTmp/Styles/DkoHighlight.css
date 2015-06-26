@@ -1,0 +1,16 @@
+.DkoHighlight
+{
+	font-family: Arial;
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: bolder;
+	height: 28px;
+	border-width: 0px 0px 0px 0px;
+	padding: 3px 0px 3px 10px;
+	color : #3A7BB5;
+}
+
+.DkoHighlight td
+{
+	font-size: 14px;	
+}

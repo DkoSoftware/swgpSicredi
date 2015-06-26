@@ -1,0 +1,382 @@
+﻿/* Arquivos importados
+--------------------------------------------------------*/
+@import url("style_locin.css");
+
+/* DEFAULTS
+----------------------------------------------------------*/
+
+body   
+{
+    background: white; /*#b6b7bc;*/
+    font-size: .70em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+a:link, a:visited
+{
+   /* color: #034af3;*/
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+   /* color: #034af3;*/
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 2.5em;
+    color: #1D771D;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2
+{
+    font-size: 1.5em;
+    font-weight: 600;
+    
+}
+
+h3
+{
+    font-size: 1.2em;
+    font-weight:bold;
+    font-style:italic;
+    text-align:left;
+}
+
+h4
+{
+    font-size: 1.1em;
+}
+
+h5, h6
+{
+    font-size: 1em;
+}
+
+/* this rule styles <h1> and <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0px;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.page
+{
+    width: 100%;
+    background-color: #fff;
+    margin: 0px 0px 0px auto;
+   
+    
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../images/fundo_sicredi2.png);
+    
+    background-repeat: repeat-x;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    height: 128px;
+}
+
+.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+.main
+{
+    padding: 0px 12px;
+    margin: 27px 8px 8px 8px;
+    min-height: 480px;
+   
+    
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer
+{
+    background-image: url(../images/fundo_sicredi2.png);
+    background-repeat:repeat-x;
+    color:black;
+    font-style:oblique;
+    
+    padding: 8px 0px 0px 0px;
+    text-align: center;
+    line-height: normal;
+    height:30px;
+}
+
+.logo_footer
+{
+    position:absolute;
+    right:0.5%;
+    }
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background-image:url(../images/back_top_menu3.png);
+    width:100%;
+    height:78px;
+    margin:30px 0px 0px  0px;
+    
+}
+
+div.hideSkiplink Menu
+{
+    background-image:url(../images/back_top_menu3.png);
+    width:100%;
+    height:78px;
+    margin:30px 0px 0px  0px;
+    color:Black;
+    
+}
+
+div.menu
+{
+   padding-left:3px;
+   width:auto;
+   margin:11px;
+   border:none;
+       
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    background-image: url(../images/btn_back_link2.png);
+    background-repeat:repeat-x; 
+    border: 1px #5B5B5B solid;
+    text-decoration: none;
+    display: block;
+    color:Black;
+    line-height: 1.35em;
+    white-space: nowrap;
+    padding: 4px 4px ;
+    padding-left:10px; 
+   
+}
+
+div.menu ul li a:hover
+{
+    background-image: url(../images/btn_back_hover2.png);
+    /*color: #B2D103;*/
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #465c71;
+    color: #B2D103;
+    text-decoration: none;
+}
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 3px;
+    margin-right:3px;
+    margin-top:10px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    color: #1D771D;
+    width:98%;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+    color: #1D771D;
+}
+
+input.textEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 42%;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+
+.title
+{
+    display: block;
+    float: left;
+    text-align: left;
+    width: auto;
+    margin-left:2%;
+    margin-top:0.5%;
+}
+
+.loginDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color:#000000;
+    font-weight:bold;
+}
+
+.loginDisplay a:link
+{
+    color: #000000;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+.loginDisplay a:visited
+{
+    color: Black;
+}
+
+.loginDisplay a:hover
+{
+    /*color: white;*/
+    text-decoration: underline;
+}
+
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+
+.submitButton
+{
+    text-align: right;
+    padding-right: 10px;
+}
+
+/* Botoes e componentes */
+
+/*
+ input[type=button].classe, input[type=submit].classe  
+ {  
+    padding: 0 20px 0 42px;  
+    height: 42px;  
+    border: 1px solid #B60000;  
+    min-width: 50px;
+    background-color:Black;
+    color:White;  
+ }  
+
+input[type=button].classe:hover, input[type=submit].classe:hover  
+{  
+    background-color: #666;  
+    color: #FFF;  
+}  
+
+*/
+
+#imgLogin
+{
+    position:relative;
+    margin-top: 40%;
+    margin-left:30%;  
+    background-image: url(../images/img_login.png);
+    
+}

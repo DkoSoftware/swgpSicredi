@@ -1,0 +1,9 @@
+﻿.DkoAdvancedLoginStatus
+{	
+	color: Gray;
+}
+
+.DkoAdvancedLoginStatus:hover
+{	
+	color: black;
+}

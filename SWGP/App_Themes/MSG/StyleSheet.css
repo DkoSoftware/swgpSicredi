@@ -1,0 +1,11 @@
+﻿#divProcessando
+{
+	background: url(imagens/progress_green.gif) no-repeat center;
+	background-color:transparent;
+	position:fixed;
+	z-index:9999;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+}

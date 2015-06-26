@@ -1,0 +1,37 @@
+﻿input.DkoMultipleFileUpload
+{
+}
+
+.DkoMultipleFileUploadButton
+{
+	font-family: verdana;
+	font-size: x-small;
+	text-align: center;
+	color: #666666;
+	
+	border-style: outset;
+	border-width: 1px;
+	border-color: white;
+	border-top-width: 0px;
+	
+	padding:1px;
+	padding-left:3px;
+	padding-right:3px;
+	
+	background-image : url(../images/DkoActionButton/buttonBackground.png);	
+	background-repeat: repeat-x;
+	margin:0px;	
+	vertical-align:middle;
+	cursor:pointer;
+	height:20px;
+}
+
+.DkoMultipleFileUploadList
+{
+	color : #000000;
+	background-image:url(../Images/DkoPage/inputBackground.gif);
+	background-repeat:repeat-x;
+	font-family : Verdana, Helvetica, E58C00, Helvetica, sans-serif;
+	font-size : 10px;
+	border: 1px solid #696969;	
+}

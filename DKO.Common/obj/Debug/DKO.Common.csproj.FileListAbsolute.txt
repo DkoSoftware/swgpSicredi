@@ -1,0 +1,33 @@
+D:\Dko Projects\Projects\Source\DKO.Common\bin\Debug\DKO.Common.dll
+D:\Dko Projects\Projects\Source\DKO.Common\bin\Debug\DKO.Common.pdb
+D:\Dko Projects\Projects\Source\DKO.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Dko Projects\Projects\Source\DKO.Common\obj\Debug\DKO.Common.dll
+D:\Dko Projects\Projects\Source\DKO.Common\obj\Debug\DKO.Common.pdb
+D:\Dko Projects\Projects\SWGP\Source\DKO.Common\bin\Debug\DKO.Common.dll
+D:\Dko Projects\Projects\SWGP\Source\DKO.Common\bin\Debug\DKO.Common.pdb
+D:\Dko Projects\Projects\SWGP\Source\DKO.Common\obj\Debug\DKO.Common.dll
+D:\Dko Projects\Projects\SWGP\Source\DKO.Common\obj\Debug\DKO.Common.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\bin\Debug\DKO.Common.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\bin\Debug\DKO.Common.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\obj\Debug\ResolveAssemblyReference.cache
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\obj\Debug\DKO.Common.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\obj\Debug\DKO.Common.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Common\bin\Debug\DKO.Common.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Common\bin\Debug\DKO.Common.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Common\obj\Debug\DKO.Common.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Common\obj\Debug\DKO.Common.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\bin\Debug\DKO.Common.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\bin\Debug\DKO.Common.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\obj\Debug\DKO.Common.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Common\obj\Debug\DKO.Common.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Common\bin\Debug\DKO.Common.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Common\bin\Debug\DKO.Common.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Common\obj\Debug\DKO.Common.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Common\obj\Debug\DKO.Common.pdb
+D:\SWGP\Source\DKO.Common\bin\Debug\DKO.Common.dll
+D:\SWGP\Source\DKO.Common\bin\Debug\DKO.Common.pdb
+D:\SWGP\Source\DKO.Common\obj\Debug\DKO.Common.dll
+D:\SWGP\Source\DKO.Common\obj\Debug\DKO.Common.pdb

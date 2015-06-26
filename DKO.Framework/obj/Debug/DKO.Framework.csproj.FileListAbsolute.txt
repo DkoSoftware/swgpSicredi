@@ -1,0 +1,33 @@
+D:\Dko Projects\Projects\Source\DKO.Framework\bin\Debug\DKO.Framework.dll
+D:\Dko Projects\Projects\Source\DKO.Framework\bin\Debug\DKO.Framework.pdb
+D:\Dko Projects\Projects\Source\DKO.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\Dko Projects\Projects\Source\DKO.Framework\obj\Debug\DKO.Framework.dll
+D:\Dko Projects\Projects\Source\DKO.Framework\obj\Debug\DKO.Framework.pdb
+D:\Dko Projects\Projects\SWGP\Source\DKO.Framework\bin\Debug\DKO.Framework.dll
+D:\Dko Projects\Projects\SWGP\Source\DKO.Framework\bin\Debug\DKO.Framework.pdb
+D:\Dko Projects\Projects\SWGP\Source\DKO.Framework\obj\Debug\DKO.Framework.dll
+D:\Dko Projects\Projects\SWGP\Source\DKO.Framework\obj\Debug\DKO.Framework.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\bin\Debug\DKO.Framework.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\bin\Debug\DKO.Framework.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\obj\Debug\ResolveAssemblyReference.cache
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\obj\Debug\DKO.Framework.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\obj\Debug\DKO.Framework.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Framework\bin\Debug\DKO.Framework.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Framework\bin\Debug\DKO.Framework.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Framework\obj\Debug\DKO.Framework.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\DKO.Framework\obj\Debug\DKO.Framework.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\bin\Debug\DKO.Framework.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\bin\Debug\DKO.Framework.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\obj\Debug\DKO.Framework.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\DKO.Framework\obj\Debug\DKO.Framework.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Framework\bin\Debug\DKO.Framework.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Framework\bin\Debug\DKO.Framework.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Framework\obj\Debug\DKO.Framework.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\DKO.Framework\obj\Debug\DKO.Framework.pdb
+D:\SWGP\Source\DKO.Framework\bin\Debug\DKO.Framework.dll
+D:\SWGP\Source\DKO.Framework\bin\Debug\DKO.Framework.pdb
+D:\SWGP\Source\DKO.Framework\obj\Debug\DKO.Framework.dll
+D:\SWGP\Source\DKO.Framework\obj\Debug\DKO.Framework.pdb

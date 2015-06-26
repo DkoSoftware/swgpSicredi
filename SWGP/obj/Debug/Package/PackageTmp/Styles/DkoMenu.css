@@ -1,0 +1,190 @@
+﻿.DkoMenu
+{
+    float:left;
+    position: relative;
+    z-index: 300;
+    width: auto !important;
+}
+
+.DkoMenu td
+{
+     background-color: #8AA9D3;
+}
+
+.menuDiv
+{
+    /*background-color: #7795BD;*/
+    background-color: #8AA9D3;
+    margin-bottom:5px;
+    height:30px;
+    padding:5px 0 0 5px;
+}
+
+.DkoMenu img
+{
+    /*display: none;*/
+}
+
+.DkoMenu a img
+{
+    display: inline;
+}
+
+/* Static */
+.DkoMenuStaticMenuItemStyle
+{
+    width: 139px;
+    text-align:center;
+}
+
+.DkoMenuStaticMenuItemStyle td
+{
+     
+}
+
+.DkoMenuStaticMenuItemStyle td
+{
+    height: 25px;
+    width: 139px;
+    border-left:1px solid #7795BD;
+    border-right:1px solid #7795BD;
+    background: url("../Images/WLMGPR/bg_nav.gif") repeat-x scroll 0 0 #7795BD;
+}
+
+.DkoMenuStaticMenuItemStyle a
+{
+    border-color: #648ABD #648ABD -moz-use-text-color;
+    border-style: solid solid none;
+    border-width: 1px 1px 0;
+    color: white;
+    padding: 4px 2px 4px 2px;
+    cursor:pointer;
+}
+
+
+.DkoMenuStaticHoverStyle
+{
+   
+}
+
+.DkoMenuStaticHoverStyle td
+{
+     background: none repeat scroll 0 0 #7795BD;
+    /*background: url("../Images/WLMGPR/arrowRight.gif") no-repeat scroll right center #7795BD;*/
+}
+
+
+.DkoMenuStaticHoverStyle a
+{
+    color: #FFFFFF;
+    cursor:pointer !important;
+}
+
+.DkoMenuStaticSelectedStyle
+{
+}
+
+/* Dynamic */
+
+.DkoMenuDynamicMenuStyle
+{
+   /*width: 162px;*/
+   z-index: 100;
+}
+
+.DkoMenuDynamicMenuItemStyle
+{
+    /*width: 162px;*/
+}
+
+
+.DkoMenuDynamicMenuItemStyle td
+{
+    height: 25px;
+    /*width: 162px;*/
+    border-left:1px solid #7795BD;
+    border-right:1px solid #7795BD;
+    background: url("../Images/WLMGPR/bg_nav.gif") repeat-x scroll 0 0 #7795BD;
+}
+
+.DkoMenuDynamicMenuItemStyle a
+{
+    border-color: #648ABD #648ABD -moz-use-text-color;
+    border-style: solid solid none;
+    border-width: 1px 1px 0;
+    color: #FFFFFF;
+    padding: 4px 2px 4px 8px;
+    cursor:pointer;
+    display: block;
+}
+
+.DkoMenuDynamicHoverStyle
+{
+    color: #FFFFFF;
+}
+
+.DkoMenuDynamicHoverStyle td
+{
+    background: none repeat scroll 0 0 #7795BD;
+}
+
+.DkoMenuDynamicHoverStyle a
+{
+    color: #003366;
+}
+
+.DkoMenuDynamicSelectedStyle
+{
+    
+}
+
+
+
+/* Menu Accordion - Catálogo Eletrônico */
+
+#menuAccordion
+{
+    height: 100%;
+}
+
+#menuAccordion .DkoModalPopupDragPanel
+{
+    text-align: right;
+}
+
+#menuAccordion .DkoModalPopupDragPanel h3
+{
+    margin: 0px;
+    color: White;
+    font-size: 9pt;
+    padding: 5px 5px;
+}
+
+#menuAccordion ul
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menuAccordion li
+{
+    display: block;
+}
+
+#menuAccordion li a
+{
+    display: block;
+    margin: 0px;
+    padding: 10px 10px 5px 5px;
+    color: #ffffff;
+    font: 9pt Arial;
+    text-decoration: none;
+    text-align: right;
+}
+
+#menuAccordion li a:hover
+{
+    display: block;
+    background-color: #DEEBFC;
+}

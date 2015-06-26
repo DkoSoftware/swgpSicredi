@@ -1,0 +1,110 @@
+/**
+Controle System.Web.UI.WebControls.FormView.
+**/
+
+/**
+Propriedade: FormView.CssClass
+Tag: m_innerTable.
+**/
+.DkoFormView
+{
+	background-color: #F9F9F9;
+	width:100%;
+	text-align:left;
+	Table-Layout: fixed;
+}
+
+.DkoFormView td
+{
+    background-color: #f9f9f9
+}
+/**
+Propriedade: FormView.EditRowStyle.CssClass
+Tag: TR
+**/
+.DkoFormViewEditRow
+{
+	background-color: #EFEFEF;
+}
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------*/
+/**
+Propriedade: FormView.EmptyDataRowStyle.CssClass
+Tag: TR
+**/
+.DkoFormViewEmptyDataRow
+{
+	background-color: #EFEFEF;
+}
+
+/**
+Propriedade: FormView.FooterStyle.CssClass
+Tag: TR
+**/
+.DkoFormViewFooter
+{
+	background-color: #EFEFEF;
+}
+
+/**
+Propriedade: FormView.HeaderStyle.CssClass
+Tag: TR
+**/
+.DkoFormViewHeader
+{
+	background-color: #EFEFEF;
+}
+
+/**
+Propriedade: FormView.InsertRowStyle.CssClass
+Tag: TR
+**/
+.DkoFormViewInsertRow
+{
+	background-color: #EFEFEF;
+}
+
+/**
+Propriedade: FormView.PagerStyle.CssClass
+Tag: TR
+**/
+.DkoFormViewPager
+{
+	background-color: #EFEFEF;
+}
+
+/**
+Propriedade: FormView.RowStyle.CssClass
+Tag: TR
+**/
+.DkoFormViewRow
+{
+}
+
+.DkoFormViewLabel
+{    
+    background-color: #F9F9F9;
+	border-bottom: 1px solid #E2E2E2;	
+    height:26px;
+}
+
+.DkoFormViewField
+{
+	background-color: #F9F9F9;
+}
+
+.DkoFormViewField input[type=text]
+{
+	width:92% !important;
+}
+
+.DkoFormViewField select
+{
+	width:94% !important;
+	padding: 2px;
+	z-index : -1;
+}
+
+.DkoFormViewField span
+{
+	width:8px !important;
+}

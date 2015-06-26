@@ -1,0 +1,89 @@
+﻿.DkoAdvancedLogin
+{
+    width:100%;
+    height:100%;
+	background-color: #EDEDED;
+	border: solid 1px black;
+	padding: 5px 40px 5px 5px;	
+	border-collapse:inherit;
+	
+}
+
+.DkoAdvancedLogin table
+{
+    width:380px;
+}
+
+.DkoAdvancedLoginCheckBox
+{	
+}
+
+.DkoAdvancedFailureText
+{	
+}
+
+.DkoAdvancedLoginHyperLink
+{
+}
+
+.DkoAdvancedLoginInstructionText
+{
+}
+
+.DkoAdvancedLoginLabel
+{
+	text-align:left;
+	border-bottom: solid 1px silver;
+	padding:0;
+	height:25px;
+	width:35%;
+    font-size:12px !important;
+}
+
+.DkoAdvancedLoginTitleText
+{
+	background-color: #BECBDC;
+	padding:1px;
+}
+
+.DkoAdvancedLoginButton
+{
+	background-image : url(../images/DkoMessageBox/buttonBackground.png);	
+	background-repeat: repeat-x;
+	margin:5px 14px 5px 0;
+	width:139px;
+	height:22px;
+	cursor:pointer;
+}
+
+.DkoAdvancedLoginTextBox
+{
+    width:90%;	
+    font-size:12px !important;
+}
+
+.DkoAdvancedLoginDropDown
+{
+	width:90%;
+	font-size:12px !important;	
+}
+
+.DkoAdvancedLoginValidatorText
+{
+}
+
+.loginImage
+{
+    margin-left:10px;
+}
+
+div#LoginUpdatePanel 
+{ 
+    width:419px; 
+    height:152px;
+    display: block; 
+    position: absolute; 
+    left: 0; 
+    top: 0; 
+    z-index: 9999;   
+}

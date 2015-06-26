@@ -1,0 +1,235 @@
+D:\Dko Projects\Projects\Source\SWGP\bin\SWGP.dll
+D:\Dko Projects\Projects\Source\SWGP\bin\SWGP.pdb
+D:\Dko Projects\Projects\Source\SWGP\bin\AjaxControlToolkit.dll
+D:\Dko Projects\Projects\Source\SWGP\bin\DKO.Common.dll
+D:\Dko Projects\Projects\Source\SWGP\bin\DKO.Framework.dll
+D:\Dko Projects\Projects\Source\SWGP\bin\SWGP.Business.dll
+D:\Dko Projects\Projects\Source\SWGP\bin\SWGP.DAL.dll
+D:\Dko Projects\Projects\Source\SWGP\bin\SWGP.Object.dll
+D:\Dko Projects\Projects\Source\SWGP\bin\DKO.Common.pdb
+D:\Dko Projects\Projects\Source\SWGP\bin\DKO.Framework.pdb
+D:\Dko Projects\Projects\Source\SWGP\bin\SWGP.Business.pdb
+D:\Dko Projects\Projects\Source\SWGP\bin\SWGP.DAL.pdb
+D:\Dko Projects\Projects\Source\SWGP\bin\SWGP.Object.pdb
+D:\Dko Projects\Projects\Source\SWGP\obj\Debug\ResolveAssemblyReference.cache
+D:\Dko Projects\Projects\Source\SWGP\obj\Debug\SWGP.csproj.ResolveComReference.cache
+D:\Dko Projects\Projects\Source\SWGP\obj\Debug\RdlCompile.cache
+D:\Dko Projects\Projects\Source\SWGP\obj\Debug\RdlCompile.compiled
+D:\Dko Projects\Projects\Source\SWGP\obj\Debug\SWGP.dll
+D:\Dko Projects\Projects\Source\SWGP\obj\Debug\SWGP.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\SWGP.csproj.ResolveComReference.cache
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\RdlCompile.cache
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\RdlCompile.compiled
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\SWGP.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\SWGP.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\AjaxControlToolkit.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\DKO.Common.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\DKO.Framework.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\SWGP.Business.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\SWGP.DAL.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\SWGP.Object.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\DKO.Common.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\DKO.Framework.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\SWGP.Business.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\SWGP.DAL.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\SWGP.Object.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\AjaxControlToolkit.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\ar\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\cs\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\de\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\es\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\fr\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\he\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\hi\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\it\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\ja\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\ko\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\nl\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\pt\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\ru\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\SWGP.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\SWGP.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\ResolveAssemblyReference.cache
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\SWGP.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\SWGP.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\Interop.Microsoft.Office.Core.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\DKO.Common.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\DKO.Framework.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.Business.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.DAL.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.Object.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\DKO.Common.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\DKO.Framework.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.Business.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.DAL.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.Object.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\AjaxControlToolkit.pdb
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\ar\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\cs\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\de\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\es\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\fr\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\he\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\hi\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\it\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\ja\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\ko\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\nl\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\pt\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\ru\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\tr-TR\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\SWGP.csproj.ResolveComReference.cache
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\RdlCompile.cache
+I:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\SWGP.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\SWGP.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\DKO.Common.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\DKO.Framework.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\SWGP.Business.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\SWGP.DAL.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\SWGP.Object.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\DKO.Common.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\DKO.Framework.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\SWGP.Business.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\SWGP.DAL.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\bin\SWGP.Object.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\SWGP.csproj.ResolveComReference.cache
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\SWGP.dll
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\SWGP.pdb
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\SWGP.dsRelatorioAnalitico.resources
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\riguel_figueiro\Desktop\Nova pasta\SWGP\obj\Debug\GenerateResource.write.1.tlog
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\AjaxControlToolkit.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\DKO.Common.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\DKO.Framework.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.Business.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.DAL.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.Object.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\DKO.Common.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\DKO.Framework.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.Business.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.DAL.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\SWGP.Object.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\AjaxControlToolkit.pdb
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\ar\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\cs\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\de\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\es\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\fr\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\he\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\hi\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\it\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\ja\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\ko\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\nl\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\pt\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\ru\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\ResolveAssemblyReference.cache
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\SWGP.csproj.ResolveComReference.cache
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\SWGP.dsRelatorioAnalitico.resources
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\GenerateResource.read.1.tlog
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\GenerateResource.write.1.tlog
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\RdlCompile.cache
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\RdlCompile.compiled
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\SWGP.dll
+F:\Dko Software\Clientes\Sicredi\SWGP\FGP_entrega_1705\SWGP\obj\Debug\SWGP.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\SWGP.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\SWGP.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\AjaxControlToolkit.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\DKO.Common.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\DKO.Framework.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\SWGP.Business.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\SWGP.DAL.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\SWGP.Object.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\DKO.Common.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\DKO.Framework.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\SWGP.Business.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\SWGP.DAL.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\SWGP.Object.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\AjaxControlToolkit.pdb
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\SWGP.csproj.ResolveComReference.cache
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\SWGP.dsRelatorioAnalitico.resources
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\RdlCompile.cache
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\RdlCompile.compiled
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\SWGP.dll
+C:\Users\Deko\Desktop\FGP_entrega_1705\SWGP\obj\Debug\SWGP.pdb
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\SWGP.csprojResolveAssemblyReference.cache
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\SWGP.dsRelatorioAnalitico.resources
+D:\Dko Projects\Projects\SWGP\Source\SWGP\obj\Debug\SWGP.csproj.GenerateResource.Cache
+D:\SWGP\Source\SWGP\bin\SWGP.dll
+D:\SWGP\Source\SWGP\bin\SWGP.pdb
+D:\SWGP\Source\SWGP\bin\AjaxControlToolkit.dll
+D:\SWGP\Source\SWGP\bin\DKO.Common.dll
+D:\SWGP\Source\SWGP\bin\DKO.Framework.dll
+D:\SWGP\Source\SWGP\bin\SWGP.Business.dll
+D:\SWGP\Source\SWGP\bin\SWGP.DAL.dll
+D:\SWGP\Source\SWGP\bin\SWGP.Object.dll
+D:\SWGP\Source\SWGP\bin\DKO.Common.pdb
+D:\SWGP\Source\SWGP\bin\DKO.Framework.pdb
+D:\SWGP\Source\SWGP\bin\SWGP.Business.pdb
+D:\SWGP\Source\SWGP\bin\SWGP.DAL.pdb
+D:\SWGP\Source\SWGP\bin\SWGP.Object.pdb
+D:\SWGP\Source\SWGP\bin\AjaxControlToolkit.pdb
+D:\SWGP\Source\SWGP\bin\ar\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\cs\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\de\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\es\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\fr\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\he\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\hi\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\it\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\ja\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\ko\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\nl\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\pt\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\ru\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\SWGP\Source\SWGP\obj\Debug\SWGP.csprojResolveAssemblyReference.cache
+D:\SWGP\Source\SWGP\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\SWGP\Source\SWGP\obj\Debug\SWGP.csproj.ResolveComReference.cache
+D:\SWGP\Source\SWGP\obj\Debug\SWGP.dsRelatorioAnalitico.resources
+D:\SWGP\Source\SWGP\obj\Debug\SWGP.csproj.GenerateResource.Cache
+D:\SWGP\Source\SWGP\obj\Debug\RdlCompile.cache
+D:\SWGP\Source\SWGP\obj\Debug\RdlCompile.compiled
+D:\SWGP\Source\SWGP\obj\Debug\SWGP.dll
+D:\SWGP\Source\SWGP\obj\Debug\SWGP.pdb
